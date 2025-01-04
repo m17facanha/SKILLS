@@ -32,7 +32,7 @@ export const Footer = () => {
       <div className="icon">
         <AiOutlineWhatsApp size={18}/>
       </div>
-      +55 71 99964-5511
+      +55 00 00000-0000
     </div>
     <div className="k">
       <div className="icon">
